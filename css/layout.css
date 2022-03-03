@@ -239,7 +239,7 @@ ul#nav li.current a { color: #F06000; }
 #education {
    background: #fff;
    padding-top: 90px;
-   padding-bottom: 72px;
+   padding-bottom: 15px;
    overflow: hidden;
 }
 
@@ -290,8 +290,8 @@ ul#nav li.current a { color: #F06000; }
 
 #skillset {
    background: #fff;
-   padding-top: 90px;
-   padding-bottom: 72px;
+   padding-top: 1px;
+   padding-bottom: 15px;
    overflow: hidden;
 }
 
@@ -314,11 +314,6 @@ ul#nav li.current a { color: #F06000; }
 #skillset .header-col { padding-top: 9px; }
 #skillset .main-col { padding-right: 10%; }
 
-.skills {
-   margin-bottom: 0px;
-   padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
-}
 #skillset .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
@@ -624,7 +619,7 @@ ul#nav li.current a { color: #F06000; }
 
 #mlds {
    background: #fff;
-   padding-top: 90px;
+   padding-top: 1px;
    padding-bottom: 72px;
    overflow: hidden;
 }
