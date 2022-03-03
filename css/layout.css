@@ -239,7 +239,7 @@ ul#nav li.current a { color: #F06000; }
 #education {
    background: #fff;
    padding-top: 90px;
-   padding-bottom: 0px;
+   padding-bottom: 72px;
    overflow: hidden;
 }
 
@@ -294,7 +294,7 @@ ul#nav li.current a { color: #F06000; }
 
 #skillset {
    background: #fff;
-   padding-top: 0px;
+   padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
