@@ -295,7 +295,7 @@ ul#nav li.current a { color: #F06000; }
 #skillset {
    background: #fff;
    padding-top: 0px;
-   padding-bottom: 0px;
+   padding-bottom: 72px;
    overflow: hidden;
 }
 
@@ -628,7 +628,7 @@ ul#nav li.current a { color: #F06000; }
 
 #mlds {
    background: #fff;
-   padding-top: 0px;
+   padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
@@ -685,7 +685,7 @@ ul#nav li.current a { color: #F06000; }
 
 #portfolio {
    background: #ebeeee;
-   padding-top: 66px;
+   padding-top: 90px;
    padding-bottom: 60px;
 }
 #portfolio h1 {
